@@ -1,1 +1,3 @@
 Buy Milk
+Add new human functions into the bot
+Add a new feature to skynet to destroy all life on earth
